@@ -23,8 +23,7 @@ function johnLennonFacts(facts) {
   return new_facts
 }
 function iLoveTheBeatles(number) {
-  var myBeatlesArray
-  return array()
+  var myBeatlesArray = []
 }
   do {
     number.pop( "I love the Beatles")
