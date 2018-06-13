@@ -23,10 +23,8 @@ function johnLennonFacts(facts) {
   }
   return new_facts
 }
-function iLoveTheBeatles(number) {
-    function maybeTrue() {
-  return Math.random() >=15
-}
+function iLoveTheBeatles(number) {}
+  return array()
   do {
     number.pop( "I love the Beatles")
   } while (maybeTrue()||number.length > 0)
