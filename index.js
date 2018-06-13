@@ -7,7 +7,6 @@ var facts = ["He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"]
-var numbers = []
 function theBeatlesPlay(musicians, instruments) {
   for (i = 0; i < musicians.length; i++) {
     text = musicians [i] + " plays " + instruments[i] 
@@ -23,8 +22,10 @@ function johnLennonFacts(facts) {
   }
   return new_facts
 }
-function iLoveTheBeatles(number) {}
+function iLoveTheBeatles(number) {
+  
   return array()
+}
   do {
     number.pop( "I love the Beatles")
   } while (maybeTrue()||number.length > 0)
