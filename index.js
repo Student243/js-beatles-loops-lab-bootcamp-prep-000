@@ -27,6 +27,6 @@ function iLoveTheBeatles(number) {
   var myBeatlesArray = []
 }
   do {
-    number.pop( "I love the Beatles")
+    myBeatlesArray.push( "I love the Beatles")
   } while (maybeTrue()||number.length > 0)
   return number
