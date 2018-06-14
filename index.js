@@ -29,4 +29,3 @@ function iLoveTheBeatles(number) {
     number.pop( "I love the Beatles")
   } while (maybeTrue()||number.length > 0)
   return number
-}
