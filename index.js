@@ -28,6 +28,6 @@ function iLoveTheBeatles(number) {
 }
   do {
     myBeatlesArray.push( "I love the Beatles")
-    myBeatlesArray.length < 15; number++
+   number++
   } while (maybeTrue()||number.length > 0)
   return number
