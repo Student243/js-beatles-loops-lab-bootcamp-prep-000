@@ -7,6 +7,7 @@ var facts = ["He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"]
+  var number = []
 function theBeatlesPlay(musicians, instruments) {
   for (i = 0; i < musicians.length; i++) {
     text = musicians [i] + " plays " + instruments[i] 
